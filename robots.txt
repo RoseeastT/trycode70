@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://mposlot77.iris-project.org/sitemap.xml
+Sitemap : http://mpo09.php-map.org/sitemap.xml
